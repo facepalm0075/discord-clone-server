@@ -1,4 +1,4 @@
-# Discord Clone
+# pouya`s Discord Clone
 
 ### Short Description
 
