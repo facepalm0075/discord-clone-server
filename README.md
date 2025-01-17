@@ -3,6 +3,7 @@
 ### Short Description
 
 This project is a server for streaming user voice and text data, built using **Node.js**, **Express**, and **Socket.IO**.
+Frontend Code: [discord-clone-platform](https://github.com/facepalm0075/discord-clone-platform)
 
 ---
 
